@@ -1,6 +1,6 @@
 # Book Library 📚
 
-Welcome to the Book Library project! This is a Kotlin-based application that allows users to manage a library of books.
+Welcome to the Book Library project! This is a Kotlin-based application that allows users to manage a library of books made by Laurent Marechal and myself.
 
 ## Features 🚀
 
@@ -23,3 +23,4 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
